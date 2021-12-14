@@ -1,13 +1,43 @@
+
 {
-
-  "name": "NUISANCE-AQ",
-
-  "description": "Customizable WhatsApp Bot",
-
-  "repository": "https://github.com/lloyd4565/wabot-economy",
-
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"]
-
+    "name": "economic",
+    "description": "Maintained Fork of Void",
+    "keywords": [
+        "bot",
+        "whatsapp",
+        "stickers",
+        "whatsapp-stickers",
+        "anime",
+        "whatsapp-bot",
+        "whatsapp-sticker-bot",
+        "whatsapp-botto"
+    ],
+    "website": "https://github.com/PrajjwalDatir/Kaoi#readme",
+    "repository": "https://github.com/PrajjwalDatir/Kaoi.git",
+    "logo": "https://avatars.githubusercontent.com/u/46681482?v=4",
+    
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+        },
+        {
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ]
 }
+
+
+
+
+
+
+
+
+
