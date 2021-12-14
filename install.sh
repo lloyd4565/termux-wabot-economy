@@ -2,4 +2,4 @@ pkg upgrade
 pkg update
 pkg install nodejs -y
 npm install
-echo "Setup selesai, ketik node index.js untuk menjalankan bot"
+echo "LLOYD IS THE BEST, AND ENJOY MY FORK OF ECONOMY"
