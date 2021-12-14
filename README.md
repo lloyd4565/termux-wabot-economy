@@ -12,18 +12,18 @@
 - termux whatsapp bot economy use quick.db
 
 ## Install
-- git clone https://github.com/Jesen-N/termux-wabot-economy
+- git clone https://github.com/lloyd4565/wabot-economy
 - bash install.sh
 - node index.js
 
-##  Editing file
-Edit the required value in `data/config.json`.
-```json
-{
-    "prefix": "!",
-    "ownerNumber": "628xxxx@s.whatsapp.net"
-}
-```
+
+
+
+
+
+
+
+
 
 ## Fieture
 ```bash
