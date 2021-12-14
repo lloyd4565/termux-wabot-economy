@@ -25,7 +25,7 @@
 
 
 
-## Fieture
+## Features
 ```bash
 Command:
 > join (register)
