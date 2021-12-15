@@ -1,8 +1,5 @@
 pkg upgrade
 pkg update
-pkg install figlet
-pkg install nodejs -y
-pkg install bash
-figlet $red "ECONOMY"
-echo "REMADE BY LLOYD"
-npm install 
+pkg install nodejs
+npm install
+echo "finish by executing node index.js"
